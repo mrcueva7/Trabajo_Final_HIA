@@ -1,0 +1,32 @@
+Boken1.png
+
+En este grafico  de dispercion vamos a poder ver la relacion que tienen la cantidad de lluvia a una temperatura de 2m
+
+
+Boken2.png
+
+En este grafico  de dispercion vamos a poder ver que en ciertos rangos de temperatura vamos a tener una mayor concentracion de radiacion
+
+Boken3.png
+
+De los 11K registros que tenemos hemos graficado una muestra del 20% de la data para ver la relacion que tiene la humedad relativa vs la humedad del sue;p
+
+Boken4.png
+
+Tenemos un grafico interactivo donde podemos apreciar la concentracion de datos con las variables (Temperatura Suelo 7 cm, Humedad Suelo 7 cm, Velocidad Viento 10m, Presión Superficie )
+
+matplot.png
+
+En el siguiente grafico de dispersion tenemos la relacion que tiene la temperatura con lluvia donde se pude indentificar una mayor concentracion de data a mayor temperatura y menos lluvia.
+
+matplot2.png
+
+A continuacion tenemos una clasificacion de la temperatura por region del pais
+
+matplot3.png
+
+En estos graficos hemos puesto un histograma por cada columna del dataframe para verificar el sesgo de informacion por cada tipo de dato
+
+pgwalker.png
+
+Graficamos la variacion de la temperatura del suelo a  una altura de 250 cm por la region
