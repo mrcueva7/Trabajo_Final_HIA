@@ -2,7 +2,6 @@ Boken1.png
 
 En este grafico  de dispercion vamos a poder ver la relacion que tienen la cantidad de lluvia a una temperatura de 2m
 
-
 Boken2.png
 
 En este grafico  de dispercion vamos a poder ver que en ciertos rangos de temperatura vamos a tener una mayor concentracion de radiacion
@@ -30,3 +29,7 @@ En estos graficos hemos puesto un histograma por cada columna del dataframe para
 pgwalker.png
 
 Graficamos la variacion de la temperatura del suelo a  una altura de 250 cm por la region
+
+pgwalker2.png
+
+Graficamos la variacion  de temperatura a 2m por cada region
