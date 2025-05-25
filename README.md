@@ -1,16 +1,16 @@
 # Trabajo_Final_HIA
 
-Seleccionar una plataforma: JupyterLab | Google Colab.------> Ok
+Seleccionar una plataforma: JupyterLab | Google Colab.
 
-Usar dos datasets, uno que tiene origen en un CSV y otro que está en una base de datos. ------> Ok
+Usar dos datasets, uno que tiene origen en un CSV y otro que está en una base de datos.
 
-Consumir la información de los datasets a través de la librería Pandas o similar.------> Ok
+Consumir la información de los datasets a través de la librería Pandas o similar.
 
 Realizar visualizaciones a través de Matplotlib / Bokeh / PyWalker.
 
-En el repositorio de GitHub, usted debe subir ------> ok
+En el repositorio de GitHub, usted debe subir
 
-El dataset inicial que será usado.--------> Ok
+El dataset inicial que será usado.
 
 El SQL de la base de datos.
 
